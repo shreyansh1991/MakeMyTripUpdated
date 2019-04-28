@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="48840" started-at="2019-04-27T07:05:51Z" finished-at="2019-04-27T07:06:40Z">
+  <suite name="Default suite" duration-ms="60362" started-at="2019-04-28T01:53:13Z" finished-at="2019-04-28T01:54:13Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="48840" started-at="2019-04-27T07:05:51Z" finished-at="2019-04-27T07:06:40Z">
+    <test name="Default test" duration-ms="60362" started-at="2019-04-28T01:53:13Z" finished-at="2019-04-28T01:54:13Z">
       <class name="com.makemytrip.tests.MakeMyTripTest">
-        <test-method status="PASS" signature="setExtent()[pri:0, instance:com.makemytrip.tests.MakeMyTripTest@3febb011]" name="setExtent" is-config="true" duration-ms="80" started-at="2019-04-27T07:05:51Z" finished-at="2019-04-27T07:05:51Z">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:com.makemytrip.tests.MakeMyTripTest@3febb011]" name="setExtent" is-config="true" duration-ms="98" started-at="2019-04-28T01:53:13Z" finished-at="2019-04-28T01:53:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setExtent -->
-        <test-method status="PASS" signature="init()[pri:0, instance:com.makemytrip.tests.MakeMyTripTest@3febb011]" name="init" is-config="true" duration-ms="7279" started-at="2019-04-27T07:05:51Z" finished-at="2019-04-27T07:05:58Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.makemytrip.tests.MakeMyTripTest@3febb011]" name="init" is-config="true" duration-ms="17848" started-at="2019-04-28T01:53:13Z" finished-at="2019-04-28T01:53:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="makeMyTripTest()[pri:0, instance:com.makemytrip.tests.MakeMyTripTest@3febb011]" name="makeMyTripTest" duration-ms="39945" started-at="2019-04-27T07:05:58Z" finished-at="2019-04-27T07:06:38Z">
+        <test-method status="PASS" signature="makeMyTripTest()[pri:0, instance:com.makemytrip.tests.MakeMyTripTest@3febb011]" name="makeMyTripTest" duration-ms="41197" started-at="2019-04-28T01:53:31Z" finished-at="2019-04-28T01:54:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- makeMyTripTest -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.makemytrip.tests.MakeMyTripTest@3febb011]" name="tearDown" is-config="true" duration-ms="1197" started-at="2019-04-27T07:06:38Z" finished-at="2019-04-27T07:06:39Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.makemytrip.tests.MakeMyTripTest@3febb011]" name="tearDown" is-config="true" duration-ms="699" started-at="2019-04-28T01:54:12Z" finished-at="2019-04-28T01:54:13Z">
           <params>
             <param index="0">
               <value>
@@ -30,7 +30,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="endReport()[pri:0, instance:com.makemytrip.tests.MakeMyTripTest@3febb011]" name="endReport" is-config="true" duration-ms="322" started-at="2019-04-27T07:06:39Z" finished-at="2019-04-27T07:06:40Z">
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.makemytrip.tests.MakeMyTripTest@3febb011]" name="endReport" is-config="true" duration-ms="504" started-at="2019-04-28T01:54:13Z" finished-at="2019-04-28T01:54:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endReport -->

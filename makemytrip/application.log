@@ -1,37 +1,37 @@
-2019-04-27 12:35:51,514  INFO [main] BaseTest:29 - Browser from config file is chrome
-2019-04-27 12:35:54,999  INFO [main] BaseTest:41 - Chrome driver is initialized.
-2019-04-27 12:35:56,190  INFO [main] BaseTest:64 - URL from property file is https://www.makemytrip.com
-2019-04-27 12:35:58,588  INFO [main] BaseTest:52 - Navigated to Required URL
-2019-04-27 12:35:58,591  INFO [main] BaseTest:13 - <----makeMyTripTest  is Started---->
-2019-04-27 12:36:00,988  INFO [main] BaseTest:64 - Actual Text is Mumbai, India
-2019-04-27 12:36:00,989  INFO [main] BaseTest:73 - still waiting for Delhi to be displayed in suggestions
-2019-04-27 12:36:02,043  INFO [main] BaseTest:64 - Actual Text is Delhi, India
-2019-04-27 12:36:03,253  INFO [main] BaseTest:64 - Actual Text is Bangalore, India
-2019-04-27 12:36:04,322  INFO [main] BaseTest:101 - currentYear is April2019
-2019-04-27 12:36:04,388  INFO [main] BaseTest:115 - currentMonth is April2019
-2019-04-27 12:36:04,640  INFO [main] BaseTest:101 - currentYear is April2019
-2019-04-27 12:36:04,692  INFO [main] BaseTest:115 - currentMonth is April2019
-2019-04-27 12:36:27,398  INFO [main] FlightDetailsPage:52 - Total Count of Departure Flights are 28
-2019-04-27 12:36:27,426  INFO [main] FlightDetailsPage:53 - Total Count of Return Flights are 74
-2019-04-27 12:36:31,891  INFO [main] FlightDetailsPage:52 - Total Count of Departure Flights are 17
-2019-04-27 12:36:31,913  INFO [main] FlightDetailsPage:53 - Total Count of Return Flights are 37
-2019-04-27 12:36:37,141  INFO [main] FlightDetailsPage:52 - Total Count of Departure Flights are 10
-2019-04-27 12:36:37,162  INFO [main] FlightDetailsPage:53 - Total Count of Return Flights are 28
-2019-04-27 12:36:37,869  INFO [main] FlightDetailsPage:86 - Departure Flight Amount is Rs 7,804
-2019-04-27 12:36:37,919  INFO [main] FlightDetailsPage:90 -  Departure Price Value displayed at Bottom of the page is Rs 7,804
-2019-04-27 12:36:38,149  INFO [main] FlightDetailsPage:100 -  Return Flight Amount is Rs 7,234
-2019-04-27 12:36:38,233  INFO [main] FlightDetailsPage:104 - Return Price Value displayed at Bottom of the page is Rs 7,234
-2019-04-27 12:36:38,345  INFO [main] FlightDetailsPage:117 - Total Amount is 15038
-2019-04-27 12:36:38,345  INFO [main] FlightDetailsPage:122 - Return Flight Amount is 7234
-2019-04-27 12:36:38,346  INFO [main] FlightDetailsPage:126 - Departure Flight Amount is 7804
-2019-04-27 12:36:38,536  INFO [main] BaseTest:19 - <----makeMyTripTest  was Passed---->
-2019-04-27 12:36:39,781 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-2019-04-27 12:36:39,783 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-2019-04-27 12:36:39,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2019-04-27 12:36:39,787 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2019-04-27 12:36:39,788 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shreyansh%20Jain/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-2019-04-27 12:36:40,037 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-2019-04-27 12:36:40,037 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-2019-04-27 12:36:40,038 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2019-04-27 12:36:40,038 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2019-04-27 12:36:40,038 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shreyansh%20Jain/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-28 07:23:13,528  INFO [main] BaseTest:29 - Browser from config file is chrome
+2019-04-28 07:23:25,010  INFO [main] BaseTest:41 - Chrome driver is initialized.
+2019-04-28 07:23:26,268  INFO [main] BaseTest:64 - URL from property file is https://www.makemytrip.com
+2019-04-28 07:23:31,372  INFO [main] BaseTest:52 - Navigated to Required URL
+2019-04-28 07:23:31,376  INFO [main] BaseTest:13 - <----makeMyTripTest  is Started---->
+2019-04-28 07:23:33,866  INFO [main] BaseTest:64 - Actual Text is Mumbai, India
+2019-04-28 07:23:33,868  INFO [main] BaseTest:73 - still waiting for Delhi to be displayed in suggestions
+2019-04-28 07:23:35,128  INFO [main] BaseTest:64 - Actual Text is Delhi, India
+2019-04-28 07:23:36,433  INFO [main] BaseTest:64 - Actual Text is Bangalore, India
+2019-04-28 07:23:37,545  INFO [main] BaseTest:101 - currentYear is April2019
+2019-04-28 07:23:37,585  INFO [main] BaseTest:115 - currentMonth is April2019
+2019-04-28 07:23:37,772  INFO [main] BaseTest:101 - currentYear is April2019
+2019-04-28 07:23:37,820  INFO [main] BaseTest:115 - currentMonth is April2019
+2019-04-28 07:24:01,038  INFO [main] FlightDetailsPage:52 - Total Count of Departure Flights are 37
+2019-04-28 07:24:01,082  INFO [main] FlightDetailsPage:53 - Total Count of Return Flights are 71
+2019-04-28 07:24:05,765  INFO [main] FlightDetailsPage:52 - Total Count of Departure Flights are 13
+2019-04-28 07:24:05,791  INFO [main] FlightDetailsPage:53 - Total Count of Return Flights are 35
+2019-04-28 07:24:10,980  INFO [main] FlightDetailsPage:52 - Total Count of Departure Flights are 21
+2019-04-28 07:24:11,004  INFO [main] FlightDetailsPage:53 - Total Count of Return Flights are 32
+2019-04-28 07:24:11,857  INFO [main] FlightDetailsPage:86 - Departure Flight Amount is Rs 11,969
+2019-04-28 07:24:11,940  INFO [main] FlightDetailsPage:90 -  Departure Price Value displayed at Bottom of the page is Rs 11,969
+2019-04-28 07:24:12,287  INFO [main] FlightDetailsPage:100 -  Return Flight Amount is Rs 6,820
+2019-04-28 07:24:12,365  INFO [main] FlightDetailsPage:104 - Return Price Value displayed at Bottom of the page is Rs 6,820
+2019-04-28 07:24:12,441  INFO [main] FlightDetailsPage:117 - Total Amount is 18789
+2019-04-28 07:24:12,441  INFO [main] FlightDetailsPage:122 - Return Flight Amount is 6820
+2019-04-28 07:24:12,441  INFO [main] FlightDetailsPage:126 - Departure Flight Amount is 11969
+2019-04-28 07:24:12,573  INFO [main] BaseTest:19 - <----makeMyTripTest  was Passed---->
+2019-04-28 07:24:13,424 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-04-28 07:24:13,428 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-04-28 07:24:13,428 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-28 07:24:13,428 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-28 07:24:13,432 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shreyansh%20Jain/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-28 07:24:13,740 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-04-28 07:24:13,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-04-28 07:24:13,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-28 07:24:13,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-28 07:24:13,740 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shreyansh%20Jain/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
